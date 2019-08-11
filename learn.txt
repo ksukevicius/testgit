@@ -1,1 +1,6 @@
 Learning GIT
+
+Basic GIT commands:
+git init
+git status
+gitr commit -m 'comment'
