@@ -4,3 +4,6 @@ Basic GIT commands:
 git init
 git status
 gitr commit -m 'comment'
+
+$ git remote add origin https://github.com/ksukevicius/testgit.git
+$ git push -u origin master
